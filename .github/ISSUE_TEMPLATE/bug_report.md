@@ -36,3 +36,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Severity**
+How severe is the bug?  We'll use this to help prioritize it in our backlog.
