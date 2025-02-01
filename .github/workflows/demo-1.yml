@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "Hello Awesome 403 World!"
+        run: echo "Hello Awesome World!"
   my-job2:
     runs-on: ubuntu-latest
     steps:
